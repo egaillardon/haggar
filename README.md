@@ -1,2 +1,2 @@
-# haggar
-Docker image for haggar (https://github.com/gorsuch/haggar)
+# Docker image for haggar
+haggar : https://github.com/gorsuch/haggar
