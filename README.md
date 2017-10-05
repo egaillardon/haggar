@@ -2,7 +2,7 @@
 haggar : an experimental carbon load testing tool - https://github.com/gorsuch/haggar
 
 ```
-docker run  -it --rm --add-host=graphite:192.168.1.24 egaillardon/haggar
+docker run  -it --rm egaillardon/haggar
 
 Usage of haggar:
   -agents int
