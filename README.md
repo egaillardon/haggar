@@ -1,4 +1,12 @@
 # Docker image for haggar
+
+[![Docker Stars](https://img.shields.io/docker/stars/_/ubuntu.svg?style=plastic)](https://hub.docker.com/r/egaillardon/haggar/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mashape/kong.svg?style=plastic)](https://hub.docker.com/r/egaillardon/haggar/)
+[![Docker Build Status](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg?style=plastic)](https://hub.docker.com/r/egaillardon/haggar/)
+[![Docker Automated build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?style=plastic)](https://hub.docker.com/r/egaillardon/haggar/)
+[![MicroBadger Size](https://img.shields.io/microbadger/image-size/jumanjiman/puppet.svg?style=plastic)](https://hub.docker.com/r/egaillardon/haggar/)
+[![MicroBadger Layers](https://img.shields.io/microbadger/layers/_/httpd.svg?style=plastic)](https://hub.docker.com/r/egaillardon/haggar/)
+
 haggar : an experimental carbon load testing tool - https://github.com/gorsuch/haggar
 
 ```
